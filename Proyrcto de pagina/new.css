@@ -1,0 +1,125 @@
+body{
+    background-color: #c8c3d9;
+
+} 
+#navegador ul {
+    list-style: none;
+    text-align: center;
+    background-color: #5f34eb;
+    height: 60px; 
+    font-family: 'Delicious Handrawn', cursive;
+
+}
+#navegador li{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+    font-family: 'Delicious Handrawn', cursive;
+
+}
+#navegador li a{
+    padding: 2px 7px 2px 7px;
+    color: #ffff;
+    background-color: #5f34eb;
+    text-decoration: none;
+    font-family: 'Delicious Handrawn', cursive;
+
+}
+#navegador li a:hover{
+    background-color: #0faafd;
+    color: #ffff;
+    height: 10px;
+    font-family: 'Delicious Handrawn', cursive;
+
+}
+#Logo{
+margin-left: 30px;
+margin-top: -70px;
+}
+#logo4{
+    position: absolute;
+    left: 130px;
+    top:  190px;
+    right: 12px;
+    height: 100px;   
+    font-family:'Delicious Handrawn', cursive; ;
+}
+#Texlg3{
+    font-family:'Delicious Handrawn', cursive; ;
+}
+#escudoM{
+    position: relative;
+   margin-left: 420px;
+   margin-top: -20px;
+    right: 12px;
+    height: 100px;   
+    font-family:'Delicious Handrawn', cursive; ;
+}
+#lol1{
+    position: absolute;
+    left:520px;
+    top:  90px;
+    right: 12px;
+    height: 100px;   
+    font-family:'Delicious Handrawn', cursive; ;
+}
+#lol2{
+    font-family:'Delicious Handrawn', cursive; 
+ margin-top: 260px;
+}
+#lol3{
+    position: absolute;
+    left:460px;
+    top:  900px;
+    right: 12px;
+    height: 100px;   
+    font-family:'Delicious Handrawn', cursive; ;
+}
+#Hitno{
+    position: relative;
+   margin-left: 400px;
+   margin-top: -90px;
+    right: 12px;
+    height: 100px;   
+    font-family:'Delicious Handrawn', cursive; ;
+}
+#Audio{
+     position: relative;
+    margin-left: 650px;
+    margin-top: -98px;
+    right: 12px;
+    height: 100px;   
+    font-family:'Delicious Handrawn', cursive; ;
+}   
+#Pie{
+    margin-left: 340px;
+   
+}
+#Induccion{
+    
+    font-family:'Delicious Handrawn', cursive; ;
+}
+#Induccion2{
+    font-family:'Delicious Handrawn', cursive;
+
+}
+#Proyect{
+    font-family:'Delicious Handrawn', cursive;
+}
+#inin{
+    font-family:'Delicious Handrawn', cursive;
+    margin-top: 10PX;
+    
+}
+#inin2{
+margin-left: 600px;
+margin-top: -550px;
+font-family:'Delicious Handrawn', cursive;
+}
+#inin3{
+    margin-left: 590px;
+    margin-top: -10px;
+    font-family:'Delicious Handrawn', cursive;
+    }
+
+
