@@ -1,11 +1,11 @@
 body{
-    background-color: #c8c3d9;
+    background-color: #C6ECB1;
 
 } 
 #navegador ul {
     list-style: none;
     text-align: center;
-    background-color: #5f34eb;
+    background-color: #54F100;
     height: 60px; 
     font-family: 'Delicious Handrawn', cursive;
 
@@ -20,7 +20,7 @@ body{
 #navegador li a{
     padding: 2px 7px 2px 7px;
     color: #ffff;
-    background-color: #5f34eb;
+    background-color: #54F100;
     text-decoration: none;
     font-family: 'Delicious Handrawn', cursive;
 
@@ -42,10 +42,22 @@ margin-top: -70px;
     top:  190px;
     right: 12px;
     height: 100px;   
-    font-family:'Delicious Handrawn', cursive; ;
+    font-family:'Delicious Handrawn', cursive; 
 }
 #Texlg3{
-    font-family:'Delicious Handrawn', cursive; ;
+    font-family:'Delicious Handrawn', cursive; 
+}
+#Texlg4{
+    font-family:'Delicious Handrawn', cursive;
+    position: absolute;
+    left:660px;
+    top:  300px;
+    right: 12px;
+    height: 90px;   
+    font-family:'Delicious Handrawn', cursive; 
+    background-color: azure; 
+    width: 750px;
+    padding: 0px;
 }
 #escudoM{
     position: relative;
@@ -53,7 +65,7 @@ margin-top: -70px;
    margin-top: -20px;
     right: 12px;
     height: 100px;   
-    font-family:'Delicious Handrawn', cursive; ;
+    font-family:'Delicious Handrawn', cursive; 
 }
 #lol1{
     position: absolute;
@@ -61,11 +73,27 @@ margin-top: -70px;
     top:  90px;
     right: 12px;
     height: 100px;   
-    font-family:'Delicious Handrawn', cursive; ;
+    font-family:'Delicious Handrawn', cursive; 
 }
 #lol2{
     font-family:'Delicious Handrawn', cursive; 
  margin-top: 260px;
+}
+#ll3{
+    position: absolute;
+    left:920px;
+    top:  150px;
+    right: 12px;
+    height: 100px;   
+    font-family:'Delicious Handrawn', cursive;
+}
+#TT{
+    position: absolute;
+    left:1120px;
+    top:  550px;
+    right: 12px;
+    height: 100px;   
+    font-family:'Delicious Handrawn', cursive;
 }
 #lol3{
     position: absolute;
@@ -74,6 +102,14 @@ margin-top: -70px;
     right: 12px;
     height: 100px;   
     font-family:'Delicious Handrawn', cursive; ;
+}
+#lol4{
+    position: absolute;
+    left:860px;
+    top:  200px;
+    right: 12px;
+    height: 100px;   
+    font-family:'Delicious Handrawn', cursive; 
 }
 #Hitno{
     position: relative;
